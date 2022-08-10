@@ -2,13 +2,13 @@
 # Library for path  -------------------------------------------------------
 
 library(fs)
-library(tidyverse)
+library(purrr)
 
 list_scripts <- dir_ls("scripts")
 
 
 # running all scripts -----------------------------------------------------
 
-walk(list_scripts, source)
+purrr::walk(list_scripts, source)
 
 
