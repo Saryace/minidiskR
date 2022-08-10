@@ -52,7 +52,7 @@ data_example <- tribble(
   "soil-b_3cm_water",
   70,
   44,
-  "soil-b_3cm_alcohol",
+  "soil-b_3cm_water",
   0,
   88,
   "soil-b_3cm_alcohol",

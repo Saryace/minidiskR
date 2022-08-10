@@ -1,5 +1,9 @@
 ### :es: Este repositorio contiene R scripts para importar y analizar los datos del equipo Minidisk
 
+Unidades:
+tiempo = segundos
+infiltracion = cm
+
 * El naming de los archivos es al estilo del Laboratorio de Biofísica de Suelos
 * Colaboración? Comentarios? contactar a seaceved@uc.cl
 
