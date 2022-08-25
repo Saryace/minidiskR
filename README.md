@@ -16,6 +16,7 @@ infiltracion = cm
 | scripts/03_infiltracion.R  | Scripts con los cálculos y ajustes  |
 | scripts/04_plots.R  | Gráficos en base a infiltration vs. raiz del tiempo  |
 | scripts/05_style_plots.R  | Ajuste de estilo para gráficos  |
+| scripts/06_change_slope.R  | Automatización de segmentos de ajuste lineal (paquete ´segmented´)  |
 
 ### Figuras ejemplo (sin formato)
 
