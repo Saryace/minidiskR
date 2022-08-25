@@ -33,7 +33,7 @@ data_nested_bysoilID %>%
     parameter_C = estimate,
     parameter_K = parameter_C / parameter_A
   ) %>% 
-  select(soil,suction,solution,texture,parameter_A,parameter_C,parameter_K)
+  dplyr::select(soil,suction,solution,texture,parameter_A,parameter_C,parameter_K)
 
 # slope analysis ----------------------------------------------------------
 parameters_bysoilID %>% 
