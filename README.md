@@ -1,5 +1,5 @@
 
-### 🇺🇸: This repository contains R scripts for importing and analyzing data from the Minidic Infiltrometer.
+### 🇺🇸: This repository contains R scripts for importing and analyzing data from the Minidisc Infiltrometer.
 
 
 Units:
@@ -20,7 +20,7 @@ infiltration= cm
 | scripts/05_style_plots.R  | Plot styling  |
 | scripts/06_change_slope.R  | Automation of linear adjustment segments (library ´segmented´)  |
 
-### :es: Este repositorio contiene R scripts para importar y analizar los datos del equipo Minidisk
+### :es: Este repositorio contiene R scripts para importar y analizar los datos del equipo Minidisc
 
 Unidades:
 tiempo = segundos
