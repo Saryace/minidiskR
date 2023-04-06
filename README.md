@@ -1,5 +1,5 @@
 
-### :en: This repository contains R scripts for importing and analyzing data from the Minidic Infiltrometer.
+### 🇺🇸: This repository contains R scripts for importing and analyzing data from the Minidic Infiltrometer.
 
 
 Units:
